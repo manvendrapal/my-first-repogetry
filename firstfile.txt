@@ -5,9 +5,6 @@ ds
 fds
 f
 sd
-fds
-fds
-f
 dsf
 ds
 fd
